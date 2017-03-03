@@ -3,4 +3,7 @@
   <groupId>fr.actia.bpm</groupId>
   <artifactId>MultiRepoProject</artifactId>
   <version>1.0.0</version>
+  
+  <dependencies>
+  </dependencies>
 </project>
